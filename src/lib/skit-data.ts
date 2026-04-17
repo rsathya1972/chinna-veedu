@@ -674,6 +674,209 @@ Kadaisila, thappu panna namma Chakrapani-ya, avaru nanban Shankar-oda udhaviyoda
     id: "scene-6",
     number: 6,
     slug: "scene-6",
+    title: "The Humiliation",
+    duration: "3 min",
+    synopsis:
+      "Emboldened by his fantasy, Chakrapani finally works up the nerve to approach Banu. It goes catastrophically wrong. Banu — sharp, composed, and fully aware of his creeping obsession — dismantles him in a few precise sentences. Worse: Chakkubai witnesses every word of it. The pedestal Chakrapani built collapses in front of his own wife.",
+    productionNotes: [
+      {
+        heading: "Stage Setup",
+        body: "Banu is in the common area — perhaps hanging laundry or reading. Chakrapani saunters in trying to look casual. Shankar hovers in the background, already anticipating disaster.",
+      },
+      {
+        heading: "Banu's Tone",
+        body: "Banu is not cruel — she is simply direct. She doesn't raise her voice. Her power comes from calm, precise words that leave no room for misinterpretation. The audience should feel the comedy and the sting at the same time.",
+      },
+      {
+        heading: "Chakkubai's Entrance",
+        body: "Chakkubai enters mid-scene, just in time to hear the worst of it. She doesn't overreact — she watches quietly with a small, knowing smile. Her silence is louder than anything she could say.",
+      },
+      {
+        heading: "Chakrapani's Exit",
+        body: "He doesn't storm off — he shuffles out, completely deflated. The big dreamer undone by a single conversation. Shankar pats him on the shoulder and says nothing. Nothing needs to be said.",
+      },
+    ],
+    scriptSections: [
+      {
+        id: "s6-approach",
+        title: { tanglish: "The Approach", tamil: "அணுகுதல்" },
+        blocks: [
+          {
+            type: "stage-direction",
+            text: "Banu is reading near the doorway. Chakrapani enters from the side, smoothing his hair, trying to look effortlessly sophisticated. Shankar watches from a distance, shaking his head slowly.",
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Chakrapani (brightly)", tamil: "சக்கரபாணி (உற்சாகமாக)" },
+            lines: {
+              tanglish: "Oh — Banu, neenga irukkeenga! Romba naalaa paakkalai.",
+              tamil: "ஓ — பானு, நீங்க இருக்கீங்க! ரொம்ப நாளா பார்க்கல.",
+            },
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Banu (without looking up)", tamil: "பானு (பார்க்காமல்)" },
+            lines: {
+              tanglish: "Aamaa.",
+              tamil: "ஆமா.",
+            },
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Chakrapani (moving closer)", tamil: "சக்கரபாணி (நெருங்கி)" },
+            lines: {
+              tanglish: "Neenga padikareenga-vaa? Enna padam?",
+              tamil: "நீங்க படிக்கிறீங்க-வா? என்ன படம்?",
+            },
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Banu (coolly)", tamil: "பானு (நிதானமாக)" },
+            lines: {
+              tanglish: "Padikaathavanga pesaadha maadiri solra padam.",
+              tamil: "படிக்காதவங்க பேசாத மாதிரி சொல்ற படம்.",
+            },
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Shankar (under his breath)", tamil: "சங்கர் (மெதுவாக)" },
+            lines: {
+              tanglish: "Da... tiriambu da...",
+              tamil: "டா... திரும்பு டா...",
+            },
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Chakrapani (ignoring Shankar, laughing it off)", tamil: "சக்கரபாணி (சங்கரை புறக்கணித்து, சிரித்து)" },
+            lines: {
+              tanglish: "Aiyo, naan serious-aa kekkavillai. Naan eppavum nenchukarom neenga eppadi irukkeenga-nu.",
+              tamil: "ஐயோ, நான் சீரியஸ்-ஆ கேக்கல. நான் எப்பவும் நெஞ்சுகாறோம் நீங்க எப்படி இருக்கீங்கன்னு.",
+            },
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Banu (finally looking up, directly)", tamil: "பானு (கடைசியில் நேரடியாக பார்த்து)" },
+            lines: {
+              tanglish: "Neenga ennoda kavalai padaama, ungaloda veetla irukkaangaley — avangoda kavalai paddunga.",
+              tamil: "நீங்க என்னோட கவலை படாம, உங்களோட வீட்ல இருக்காங்களே — அவங்கோட கவலை படுங்க.",
+            },
+          },
+        ],
+      },
+      {
+        id: "s6-dismantled",
+        title: { tanglish: "The Dismantling", tamil: "சிதைவு" },
+        blocks: [
+          {
+            type: "dialog",
+            speaker: { tanglish: "Chakrapani (stung but pressing on)", tamil: "சக்கரபாணி (வலித்தும் தொடர்ந்து)" },
+            lines: {
+              tanglish: "Naan... ungaley romba respect panraen. Neenga romba different-aa irukeenga.",
+              tamil: "நான்... உங்களே ரொம்ப ரெஸ்பெக்ட் பண்றேன். நீங்க ரொம்ப டிஃபரண்ட்-ஆ இருக்கீங்க.",
+            },
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Banu (putting the book down)", tamil: "பானு (புத்தகத்தை வச்சு)" },
+            lines: {
+              tanglish: "Naan theriyum. Neenga ennai newspaper-la thuvaara pottu paakkireenga-nu.",
+              tamil: "நான் தெரியும். நீங்க என்னை நியூஸ்பேப்பர்ல துவாரா போட்டு பாக்கிறீங்கன்னு.",
+            },
+          },
+          {
+            type: "stage-direction",
+            text: "Chakrapani freezes. Shankar covers his face with his hand.",
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Chakrapani (stammering)", tamil: "சக்கரபாணி (தடுமாறி)" },
+            lines: {
+              tanglish: "Adhu... adhu... naan news padichukittirundhen, accidentally—",
+              tamil: "அது... அது... நான் நியூஸ் படிச்சிட்டிருந்தேன், accidentally—",
+            },
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Banu (calmly)", tamil: "பானு (நிதானமாக)" },
+            lines: {
+              tanglish: "Oru vaaram newspaper-la oru page maari poadama oru tuvaaram irundhadhu. Naan count pannittaen.",
+              tamil: "ஒரு வாரம் நியூஸ்பேப்பர்ல ஒரு பக்கம் மாறி போடாம ஒரு துவாரம் இருந்தது. நான் count பண்ணிட்டேன்.",
+            },
+          },
+          {
+            type: "stage-direction",
+            text: "From the doorway, Chakkubai quietly enters. She stops when she hears. She does not announce herself.",
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Banu (standing, measured)", tamil: "பானு (எழுந்து, அளவாக)" },
+            lines: {
+              tanglish: "Ungalukku enna venum-nu theriyaadhu. Enna veendum-nu theriyum. Rendu-um onnu illai. En paeru vazhakkaama vaazhunga — unakku-m, avar kittayum nalla irukkum.",
+              tamil: "உங்களுக்கு என்ன வேணும்னு தெரியாது. என்ன வேண்டும்னு தெரியும். ரெண்டும் ஒண்ணு இல்லை. என் பேரு வழக்காம வாழுங்க — உனக்கும், அவர் கிட்டயும் நல்லா இருக்கும்.",
+            },
+          },
+          {
+            type: "stage-direction",
+            text: "Banu picks up her book and goes inside without another word.",
+          },
+        ],
+      },
+      {
+        id: "s6-aftermath",
+        title: { tanglish: "The Aftermath", tamil: "பின்விளைவு" },
+        blocks: [
+          {
+            type: "stage-direction",
+            text: "Chakrapani stands still, completely hollowed out. He slowly turns and sees Chakkubai standing there. Their eyes meet.",
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Chakkubai (quietly, no mockery)", tamil: "சக்குபாய் (அமைதியாக, கேலியில்லாம)" },
+            lines: {
+              tanglish: "Naan kaapikaaga vandhaen.",
+              tamil: "நான் காபிக்காக வந்தேன்.",
+            },
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Chakrapani (barely audible)", tamil: "சக்கரபாணி (கேட்கவே கேட்காமல்)" },
+            lines: {
+              tanglish: "Seri.",
+              tamil: "சரி.",
+            },
+          },
+          {
+            type: "stage-direction",
+            text: "Chakkubai goes inside. Shankar walks up to Chakrapani and puts a hand on his shoulder. He says nothing. They both stand there in silence.",
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Chakrapani (to himself)", tamil: "சக்கரபாணி (மனதுக்குள்)" },
+            lines: {
+              tanglish: "Eppadipatta aalu naan...",
+              tamil: "எப்படிப்பட்ட ஆளு நான்...",
+            },
+          },
+          {
+            type: "dialog",
+            speaker: { tanglish: "Shankar (gently)", tamil: "சங்கர் (மெதுவாக)" },
+            lines: {
+              tanglish: "Adhai purinjukittaey-nu nenaichaal — adhu dhaan maaththam.",
+              tamil: "அதை புரிஞ்சுக்கிட்டேய்னு நினைச்சால் — அதுதான் மாத்தம்.",
+            },
+          },
+          {
+            type: "stage-direction",
+            text: "Lights dim. End of Scene 6.",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    id: "scene-7",
+    number: 7,
+    slug: "scene-7",
     title: "Forgiveness",
     duration: "3 min",
     synopsis:
